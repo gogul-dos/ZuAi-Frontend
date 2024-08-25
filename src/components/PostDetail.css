@@ -1,0 +1,12 @@
+.post-detail {
+  padding: 20px;
+}
+
+.post-detail-image {
+  width: 100%;
+  height: auto;
+}
+
+.post-content {
+  margin: 10px 0;
+}
